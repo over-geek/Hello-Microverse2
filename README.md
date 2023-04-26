@@ -1,4 +1,4 @@
-# Hello-Microverse
+# Portfolio 
 <a name="readme-top"></a>
 
 <!--
@@ -28,9 +28,6 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
   <h3><b>Hello Microverse Project Readme</b></h3>
 
 </div>
@@ -43,6 +40,7 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -59,9 +57,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 [Hello Microverse Project] <a name="about-project"></a>
 
-**[Hello Microverse]** is a project to master version control and learn best practices of the Microverse GitHub flow.
+**[Portfolio]** is a project created to understand the concept of version control, working with different branches and opening pull requests.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -89,7 +87,6 @@ After you're finished please remove all the comments and instructions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -99,37 +96,29 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+Install <a href="https://git-scm.com/downloads">git</a>
+Install <a href="https://code.visualstudio.com/download">VS Code</a>
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone https://github.com/over-geek/Hello-Microverse2.git
 ```
 --->
 
 ### Install
 
-Install this project with:
+To install this project, set up linter by installing the following in project directory:
 
-<!--
-Example command:
+Terminal commands:
 
 ```sh
-  cd my-project
-  gem install
+  npm init -y
+  npx hint .
+  npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
 ```
 --->
 
@@ -137,17 +126,13 @@ Example command:
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+Open liveserver in VS Code
 
 ### Run tests
 
 To run tests, run the following command:
+
+- Not applicable
 
 <!--
 Example command:
@@ -161,6 +146,8 @@ Example command:
 
 You can deploy this project using:
 
+- Not applicable
+
 <!--
 Example:
 
@@ -168,6 +155,7 @@ Example:
 
 ```
  -->
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -187,7 +175,7 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[N/A]**
+- [ ] **[Responsive Design]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -213,7 +201,7 @@ If you like this project please star this repository.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Glauber for his help and Support.
+I would like to thank Joshua for his help and Support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -221,8 +209,6 @@ I would like to thank Glauber for his help and Support.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
