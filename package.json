@@ -1,5 +1,5 @@
 {
-  "name": "hello-microverse2",
+  "name": "hello-microverse",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/over-geek/Hello-Microverse2.git"
+    "url": "git+https://github.com/over-geek/Hello-Microverse.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/over-geek/Hello-Microverse2/issues"
+    "url": "https://github.com/over-geek/Hello-Microverse/issues"
   },
-  "homepage": "https://github.com/over-geek/Hello-Microverse2#readme",
+  "homepage": "https://github.com/over-geek/Hello-Microverse#readme",
   "devDependencies": {
-    "hint": "^7.1.8",
+    "hint": "^7.1.3",
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",
